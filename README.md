@@ -1,2 +1,3 @@
 # hello-world
 just another repository
+A DATA SCIENCE STUDENTS AND WISH TO LEARN MORE ABOUT THIS PACKAGE
